@@ -12,15 +12,15 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
+- **ID de la Actividad:** [Reflexiones]
+- **Módulo:** ["EDES"] (`PROG`, `IS`, `EDES`, etc.)
+- **Unidad de Trabajo:** [1,1]
+- **Fecha de Creación:** [15/10/2024]
 - **Fecha de Entrega:** [Fecha de entrega]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** [Samuel Sánchez López]
+  - **Correo electrónico:** [ssanlop2806@g.educaand.es]
+  - **Iniciales del Alumno/Grupo:** [S]
 
 ## Descripción de la Actividad
 [Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
